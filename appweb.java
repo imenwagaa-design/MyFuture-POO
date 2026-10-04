@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class appbanque {
+public class AppBanque {
 
     public static void main(String[] args) {
 
